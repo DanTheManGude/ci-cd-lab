@@ -1,3 +1,4 @@
-module github.com/jakeod99/ci-cd-lab
+module github.com/DanTHeManGude/ci-cd-lab
+
 
 go 1.16
